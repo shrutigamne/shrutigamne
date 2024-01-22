@@ -19,8 +19,10 @@
 <p align="left">
 <a href="https://linkedin.com/in/shruti rajiv gamne" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shruti rajiv gamne" height="30" width="40" /></a>
 </p>
-<h3 align="left">Tech Stack:</h3>
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white)
+
+# 💻 Tech Stack:
+
+![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
 
 
 
