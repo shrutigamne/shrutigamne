@@ -1,4 +1,3 @@
-![logo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fyushi95.medium.com%2Fhow-to-create-a-beautiful-readme-for-your-github-profile-36957caa711c&psig=AOvVaw2buQcpKNyqV2NX-bvczQuT&ust=1706010266736000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCICGudn18IMDFQAAAAAdAAAAABAb)
 <img align="centre" alt= "Data Anaysis" width="700" src="https://user-images.githubusercontent.com/89390696/197391947-44073cab-ffa1-4f6f-b0e9-a541afc7254a.gif">
 
 <h1 align="center">Hi 👋, I'm Shruti Rajiv Gamne</h1>
